@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Cronometro-de-Estudos---Projeto-Alura/static/css/main.f2abe8c3.css",
+    "main.js": "/Cronometro-de-Estudos---Projeto-Alura/static/js/main.127dcd37.js",
+    "static/media/check-mark.svg": "/Cronometro-de-Estudos---Projeto-Alura/static/media/check-mark.53f24c0a28e150404896.svg",
+    "index.html": "/Cronometro-de-Estudos---Projeto-Alura/index.html",
+    "main.f2abe8c3.css.map": "/Cronometro-de-Estudos---Projeto-Alura/static/css/main.f2abe8c3.css.map",
+    "main.127dcd37.js.map": "/Cronometro-de-Estudos---Projeto-Alura/static/js/main.127dcd37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2abe8c3.css",
+    "static/js/main.127dcd37.js"
+  ]
+}
